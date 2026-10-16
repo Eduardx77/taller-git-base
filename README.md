@@ -14,6 +14,14 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 
 - (Hector Rojo)
 
+## Cómo usarlo
+
+1. Escribe una tarea y presiona **Agregar**.
+2. Haz clic en la tarea para marcarla como hecha.
+3. Presiona **X** para borrarla.
+
+Repositorio: [tablero-tareas](https://github.com/Eduardx77/tablero-tareas)
+
 ## Funciones agregadas en el taller
 
 - (se llena en la sesión 2)
